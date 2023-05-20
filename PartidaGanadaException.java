@@ -1,4 +1,4 @@
-//74016116 MARTIN GOMEZ, JAVIER
+//MARTIN GOMEZ, JAVIER
 
 
 public class PartidaGanadaException extends Exception{
